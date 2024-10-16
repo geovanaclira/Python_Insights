@@ -15,7 +15,12 @@
 - Clientes do contrato mensal TODOS cancelam -> Ofercer desconto nos planos anuais e trimestrais
 - Clientes que ligam mais do que 4 vezes para o call center, cancelam -> Criar um processo para resolver o problema do cliente em no máximo 3 ligações
 - Clientes que atrasaram mais de 20 dias, cancelaram -> Política de resolver atrasos em até 10 dias (equipe financeira)
-   
+
+# Visualizar todos os Gráficos
+- Acessar link: https://mybinder.org/v2/gh/geovanaclira/Python_Insights/HEAD
+- Passo 1: Apertar em Downloads
+- Passo 2: Jupyter
+- Passo 3: Python_Insights
 
 
 
