@@ -1,6 +1,6 @@
-import pandas as pd
-import numpy as np
-import plotly as plt
-import ipykernel
-import openpyxl
-import nbformat
+pandas
+numpy 
+plotly
+ipykernel
+openpyxl
+nbformat
